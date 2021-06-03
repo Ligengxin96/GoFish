@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAEA,KACE,4CACF,CAEA,IACE,UACF,CAEA,UACE,SACF","file":"main.88faee45.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\n\nbody {\n  background-image: url(\"https://tenapi.cn/bing/\");\n}\n\nimg {\n  opacity: 0.5;\n}\n\nimg:hover {\n  opacity: 1.0;\n}"]}
