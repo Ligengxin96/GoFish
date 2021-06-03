@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.88faee45.chunk.css",
-    "main.js": "/static/js/main.82b546f8.chunk.js",
-    "main.js.map": "/static/js/main.82b546f8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6fcd14ee.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6fcd14ee.js.map",
-    "static/css/2.3c3a73a9.chunk.css": "/static/css/2.3c3a73a9.chunk.css",
-    "static/js/2.5b68096b.chunk.js": "/static/js/2.5b68096b.chunk.js",
-    "static/js/2.5b68096b.chunk.js.map": "/static/js/2.5b68096b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.3c3a73a9.chunk.css.map": "/static/css/2.3c3a73a9.chunk.css.map",
-    "static/css/main.88faee45.chunk.css.map": "/static/css/main.88faee45.chunk.css.map",
-    "static/js/2.5b68096b.chunk.js.LICENSE.txt": "/static/js/2.5b68096b.chunk.js.LICENSE.txt",
-    "static/media/v2ex.2c4ba486.svg": "/static/media/v2ex.2c4ba486.svg",
-    "static/media/weibo.4d54a609.svg": "/static/media/weibo.4d54a609.svg",
-    "static/media/zhihu.1512f04f.svg": "/static/media/zhihu.1512f04f.svg"
+    "main.css": "/GoFish/static/css/main.88faee45.chunk.css",
+    "main.js": "/GoFish/static/js/main.b7a99ea5.chunk.js",
+    "main.js.map": "/GoFish/static/js/main.b7a99ea5.chunk.js.map",
+    "runtime-main.js": "/GoFish/static/js/runtime-main.5103807e.js",
+    "runtime-main.js.map": "/GoFish/static/js/runtime-main.5103807e.js.map",
+    "static/css/2.3c3a73a9.chunk.css": "/GoFish/static/css/2.3c3a73a9.chunk.css",
+    "static/js/2.5b68096b.chunk.js": "/GoFish/static/js/2.5b68096b.chunk.js",
+    "static/js/2.5b68096b.chunk.js.map": "/GoFish/static/js/2.5b68096b.chunk.js.map",
+    "index.html": "/GoFish/index.html",
+    "static/css/2.3c3a73a9.chunk.css.map": "/GoFish/static/css/2.3c3a73a9.chunk.css.map",
+    "static/css/main.88faee45.chunk.css.map": "/GoFish/static/css/main.88faee45.chunk.css.map",
+    "static/js/2.5b68096b.chunk.js.LICENSE.txt": "/GoFish/static/js/2.5b68096b.chunk.js.LICENSE.txt",
+    "static/media/v2ex.2c4ba486.svg": "/GoFish/static/media/v2ex.2c4ba486.svg",
+    "static/media/weibo.4d54a609.svg": "/GoFish/static/media/weibo.4d54a609.svg",
+    "static/media/zhihu.1512f04f.svg": "/GoFish/static/media/zhihu.1512f04f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fcd14ee.js",
+    "static/js/runtime-main.5103807e.js",
     "static/css/2.3c3a73a9.chunk.css",
     "static/js/2.5b68096b.chunk.js",
     "static/css/main.88faee45.chunk.css",
-    "static/js/main.82b546f8.chunk.js"
+    "static/js/main.b7a99ea5.chunk.js"
   ]
 }
