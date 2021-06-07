@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GoFish/static/css/main.88faee45.chunk.css",
-    "main.js": "/GoFish/static/js/main.d0a4e31f.chunk.js",
-    "main.js.map": "/GoFish/static/js/main.d0a4e31f.chunk.js.map",
+    "main.js": "/GoFish/static/js/main.0c9f0a48.chunk.js",
+    "main.js.map": "/GoFish/static/js/main.0c9f0a48.chunk.js.map",
     "runtime-main.js": "/GoFish/static/js/runtime-main.5103807e.js",
     "runtime-main.js.map": "/GoFish/static/js/runtime-main.5103807e.js.map",
     "static/css/2.3c3a73a9.chunk.css": "/GoFish/static/css/2.3c3a73a9.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.3c3a73a9.chunk.css",
     "static/js/2.5b68096b.chunk.js",
     "static/css/main.88faee45.chunk.css",
-    "static/js/main.d0a4e31f.chunk.js"
+    "static/js/main.0c9f0a48.chunk.js"
   ]
 }
